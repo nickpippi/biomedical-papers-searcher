@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Biomedical Articles Search System
-Specialized search in PubMed, bioRxiv and Europe PMC
-Areas: Biology, Health, Cancer, Oncology, Medicine
+Search biomedical articles in PubMed, bioRxiv, and Europe PMC.
 """
 
 import argparse
@@ -588,7 +586,6 @@ class DocxExporter:
 
 
 def main():
-    """Main function"""
     parser = argparse.ArgumentParser(
         description='🧬 Specialized search for BIOMEDICAL articles',
         formatter_class=argparse.RawDescriptionHelpFormatter,
