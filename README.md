@@ -218,23 +218,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any problems, please open an [issue](https://github.com/nickpippi/biomedical-papers-searcher/issues).
 
-## 🆕 Recent Updates
-
-### v2.1 - Dark Mode & Responsive Design (Current)
-- Implemented beautiful dark mode interface
-- Fixed layout to be fully responsive (adapts to any window size)
-- Improved fonts with Segoe UI for better readability
-- Removed emoji dependency for universal compatibility
-- Added mouse wheel scroll support
-- Optimized card-based layout
-- Enhanced terminal-style results display
-
-### v2.0 - Modern GUI
-- Added graphical interface
-- Enhanced date range selection with multiple modes
-- Improved user experience with real-time feedback
-- Maintained full backward compatibility with CLI
-
 ## 👨‍💻 Author
 
 Níckolas Pippi - [ORCID: 0009-0008-3312-7645](https://orcid.org/0009-0008-3312-7645)
